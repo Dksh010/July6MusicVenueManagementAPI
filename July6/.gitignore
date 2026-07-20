@@ -1,0 +1,11 @@
+﻿# Visual Studio locks & caches
+.vs/
+.vscode/
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Configuration
+appsettings.json
+appsettings.Development.json
